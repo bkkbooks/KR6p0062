@@ -1,0 +1,183 @@
+canonical_identifier: bkk:krp/KR6p0062/v1
+canonical_location: https://kanripo.org/bkk/KR6p0062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土決
+  identifiers:
+    alt_id:
+    - X61n1157
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X61/X61n1157.xml
+    old_id: X61n1157
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0062_000.yaml, hash: 'sha256:1b0233a96d28c7f70074e02a871cffe44436de949dbe50a23a0c377e56bf0de8'}
+  - {seq: 1, filename: KR6p0062_001.yaml, hash: 'sha256:dc1fc8edfddbd057ec2dca37b4add3f573a3a11015938d30ab7847b4643fd631'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0062_000.markers.yaml, hash: 'sha256:a707ccf7e6c158b97564943b69c4318a837f601a8f0d78bf6ee5f80f06b11c2c'}
+  - {seq: 1, role: markers, filename: assets/KR6p0062_001.markers.yaml, hash: 'sha256:e4f23a7c9a6bb7a7e6722c8d8a0a494dadbf36838cb8c9d948b63d3b279fd68f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0062_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1157-A 淨土決前引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0062_X_000-mulu-2
+    span:
+    - front
+    - 288
+    - 288
+  label: 淨土決目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16531
+  label: 淨土決
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 天台智者淨土十疑論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 宋無為居士楊傑淨土十疑論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-3
+    span:
+    - body
+    - 22
+    - 22
+  label: 一心三觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-4
+    span:
+    - body
+    - 409
+    - 409
+  label: 壽禪師勸修淨業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-5
+    span:
+    - body
+    - 2457
+    - 2457
+  label: 行脚求師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-6
+    span:
+    - body
+    - 3818
+    - 3818
+  label: 宗本答問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-7
+    span:
+    - body
+    - 4610
+    - 4610
+  label: 三大聖人現身勸修淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-8
+    span:
+    - body
+    - 5457
+    - 5457
+  label: 經論指歸淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-9
+    span:
+    - body
+    - 7168
+    - 7168
+  label: 祖師指歸西方
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-10
+    span:
+    - body
+    - 13160
+    - 13160
+  label: 西方偈贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-11
+    span:
+    - body
+    - 13787
+    - 13787
+  label: 西方五請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0062_X_001-mulu-12
+    span:
+    - body
+    - 16335
+    - 16335
+  label: 念佛八偈
+  type: mulu
+  level: 1
+hash: sha256:84d391e2221f5579b287ff2ee7a1308442e78c69bf30372d6b674f595c838906
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
