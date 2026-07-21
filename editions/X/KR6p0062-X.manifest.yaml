@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0062_000-X.yaml, hash: 'sha256:aceb9e1018620a91faa99e61ed8a079d8666d9f1c3bd59586965205716f24914'}
+  - {seq: 0, filename: KR6p0062_000-X.yaml, hash: 'sha256:f6e5c337f007b853f7ff4a26290abeec6a1e13b6dbdc17fad1da26572924562a'}
   - {seq: 1, filename: KR6p0062_001-X.yaml, hash: 'sha256:6c67a8f85a6acbaac1286bca9d8c47bd381c82c0c678e101fc5a9aafea54976f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0062_000-X.markers.yaml, hash: 'sha256:27cce0ff9ce470c4e0642d92011098d1d238ce68552b033592f4f0ef28583626'}
+  - {seq: 0, role: markers, filename: assets/KR6p0062_000-X.markers.yaml, hash: 'sha256:df38a6d80ca8ee3f459dedb36b02c7c146e6085765082e5a15300846b54a0754'}
   - {seq: 1, role: markers, filename: assets/KR6p0062_001-X.markers.yaml, hash: 'sha256:c2eb0167cf19a6850bc89a3b168ef5ad67dde4a71cf45eb853702022fe267ae0'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0062_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1157-A 淨土決前引
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0062_X_000-mulu-2
     span:
-    - front
+    - body
     - 288
     - 288
   label: 淨土決目次
@@ -175,4 +175,4 @@ table_of_contents:
   label: 念佛八偈
   type: mulu
   level: 1
-hash: sha256:d5c8a0741bc673ae045afcc8b9cade270d6d272658a37d2bfa9b7b24fd1141d6
+hash: sha256:ce03d231fcba9299ff783978c25db169de636bf5a01f97a34cdd12af646e6bc5
